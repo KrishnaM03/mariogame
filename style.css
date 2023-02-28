@@ -20,3 +20,17 @@
     font-size: 22px;
 }
 
+h4 {
+    background-color: white;
+    line-height: 2;
+    margin: 0px;
+}
+
+.modal-dialog{
+    width: 90%;
+}
+
+.instruction_img {
+    display: inline-block;
+    width: 45%;
+}
